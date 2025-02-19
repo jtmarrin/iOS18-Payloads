@@ -1,0 +1,14 @@
+REM Title: iOS-Video-RickRoll
+REM Description: Latest iOS working RickRoll
+REM Author: jtmarrin
+REM Target: iPhone iOS - 18
+GUI
+DELAY 150
+GUI SPACE
+DELAY 150
+BACKSPACE
+DELAY 150
+STRING https://www.youtube.com/watch?v=xm3YgoEiEDc
+DELAY 500
+ENTER
+DELAY 200
